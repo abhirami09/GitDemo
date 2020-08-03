@@ -9,7 +9,7 @@ public class App
 	public void addData(String data) {
 		System.out.println("data= "+data);
 		if(data.equals(Order.DATA_TYPE)) {
-			System.out.println("Welcome");
+			System.out.println("Welcome by dev2");
 		}
 	}
 	
